@@ -10,8 +10,7 @@
     "devDependencies": {},
     "scripts": {
         "build": "tsc",
-        "dev": "tsc -w",
-        "start": "./node_modules/.bin/ts-node $(file)"
+        "dev": "tsc -w"
     },
     "keywords": [],
     "author": "",
