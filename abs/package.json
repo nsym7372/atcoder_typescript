@@ -1,0 +1,19 @@
+{
+    "name": "abs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "@types/node": "^17.0.9",
+        "typescript": "^4.5.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "build": "tsc",
+        "dev": "tsc -w",
+        "start": "./node_modules/.bin/ts-node $(file)"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
